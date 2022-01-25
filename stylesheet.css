@@ -1,5 +1,6 @@
-h1{
-    color: black;
-    height: 600px;
-    width: 600px;
+.header-logo{
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+
 }
