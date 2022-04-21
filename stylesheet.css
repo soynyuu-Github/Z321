@@ -125,7 +125,7 @@ html { box-sizing: border-box; }
 body {
   background-color: var(--ui-color-background-primary);
   color: var(--ui-color-typography-body);
-  font-family: var(--ui-typography-typeface);
+  font-family: 'M PLUS 1p', sans-serif;
   font-feature-settings: "liga", "kern";
   font-size: var(--ui-typography-p);
   font-weight: 400;
